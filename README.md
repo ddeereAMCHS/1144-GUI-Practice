@@ -9,3 +9,12 @@
 - When the selection for the combo box changes, the picture should change
   - Also print what picture was deselected and what picture was selected
 - When you are done, uncomment the print statement in `Done.java`
+
+***Example output:***\
+Ball selected\
+Ball deselected\
+Card selected\
+Card deselected\
+Shoe selected\
+Shoe deselected\
+Hat selected
