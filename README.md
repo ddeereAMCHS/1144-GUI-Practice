@@ -9,6 +9,7 @@
 - Include one label that contains an image
 - Use ItemListener instead of ActionListener
 - When the selection for the combo box changes, the picture should change
+  - Make sure the size of the picture does not change
   - Also print what picture was deselected and what picture was selected
 - When you are done, uncomment the print statement in `Done.java`
 
