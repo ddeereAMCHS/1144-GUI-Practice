@@ -1,6 +1,6 @@
 # GUI Practice
 
-## Due: Fri 4/28 at 11:59 PM
+## Due: Fri 4/26 at 11:59 PM
 
 - Create a program called `GuiPractice.java`
 - You will make a GUI that displays different pictures one at a time
